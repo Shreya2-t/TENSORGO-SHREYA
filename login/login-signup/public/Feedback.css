@@ -1,0 +1,43 @@
+main{
+    background-color: #ffffff;
+    font-family:sans-serif;
+  }
+  #title{
+    padding-top:20px;
+    
+  }
+  #title, #description {
+    text-align:center;
+  }
+  #survey-form {
+    background-color:#dbe8dc;
+    margin-top:30px;
+    margin-bottom:30px;
+    margin-right:200px;
+    margin-left:200px;
+    border-radius:10px;
+    padding:40px;
+    padding-left:50px;
+    font-size:20px;
+    font-weight:bold;
+    color:rgb(7, 0, 2);
+  }
+  #name, #email, #number, #dropdown, #comment{
+    font-size:12px;
+    width:80%;
+    padding:10px;
+    border-radius:5px;
+  }
+  #dropdown {
+    width:83%;
+  }
+  #submit{
+    background-color:#aa336a;
+    color:#cf9fff;
+    width:50%;
+    padding:10px;
+    margin-top:10px;
+    font-size:18px;
+    font-weight:bold;
+  }
+  
